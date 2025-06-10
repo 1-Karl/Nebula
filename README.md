@@ -29,12 +29,17 @@ Baixe a versão mais recente aqui:
 
 ## 🚀 Como usar
 
-1. Baixe e extraia o arquivo.
-2. Rode o executável.
-3. Insira sua chave de acesso (key).
-4. O sistema ativa apenas os módulos correspondentes:
-   - `"fishing"` ativa o **macro de pesca automática**.
-   - `"hotkey"` ativa os **comandos por tecla de atalho**.
+1. Baixe e extraia o arquivo.  
+2. Rode o executável.  
+3. Insira sua chave de acesso (key).  
+4. O sistema ativa apenas os módulos correspondentes:  
+   - `"fishing"` ativa o **macro de pesca automática**.  
+   - `"hotkey"` ativa os **comandos por tecla de atalho**.  
    - Ou ambos, dependendo da chave!
 
 ---
+
+## 📬 Contato
+
+Para dúvidas, suporte ou sugestões, entre em contato comigo pelo Discord:  
+👉 [1.kar](https://discord.com/users/845347048420933675)
