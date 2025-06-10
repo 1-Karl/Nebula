@@ -23,7 +23,7 @@ Ideal para quem quer **ganhar tempo, reduzir esforço e aumentar a produtividade
 ## 📥 Download
 
 Baixe a versão mais recente aqui:  
-👉 [Download Nebula]()
+👉 [Download Nebula](https://github.com/1-Karl/Nebula/releases/download/v1.0/Nebula.zip)
 
 ---
 
