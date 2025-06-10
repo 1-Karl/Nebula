@@ -2,7 +2,6 @@
 
 **Nebula** é um sistema de automação simples, eficiente e direto ao ponto. Com apenas um clique, você executa comandos completos e automatiza tarefas repetitivas em jogos ou programas.
 
-Ideal para quem quer **ganhar tempo, reduzir esforço e aumentar a produtividade**.
 
 ---
 
