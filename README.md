@@ -39,4 +39,3 @@ Baixe a versão mais recente aqui:
 
 ---
 
-*Automatize com praticidade. Use Nebula.*
